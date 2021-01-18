@@ -1,0 +1,5 @@
+C:\Users\Toğunçhan\source\repos\Win_Generic\obj\Debug\Win_Generic.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\source\repos\Win_Generic\obj\Debug\Win_Generic.Form1.resources
+C:\Users\Toğunçhan\source\repos\Win_Generic\obj\Debug\Win_Generic.Properties.Resources.resources
+C:\Users\Toğunçhan\source\repos\Win_Generic\obj\Debug\Win_Generic.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\source\repos\Win_Generic\obj\Debug\Win_Generic.csproj.CoreCompileInputs.cache

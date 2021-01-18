@@ -1,0 +1,20 @@
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\bin\Debug\Win_IEnumerator.exe.config
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\bin\Debug\Win_IEnumerator.exe
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\bin\Debug\Win_IEnumerator.pdb
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\obj\Debug\Win_IEnumerator.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\obj\Debug\Win_IEnumerator.Form1.resources
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\obj\Debug\Win_IEnumerator.Properties.Resources.resources
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\obj\Debug\Win_IEnumerator.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\obj\Debug\Win_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\obj\Debug\Win_IEnumerator.exe
+C:\Users\Toğunçhan\source\repos\Win_IEnumerator\obj\Debug\Win_IEnumerator.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\bin\Debug\Win_IEnumerator.exe.config
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\bin\Debug\Win_IEnumerator.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\bin\Debug\Win_IEnumerator.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\obj\Debug\Win_IEnumerator.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\obj\Debug\Win_IEnumerator.Form1.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\obj\Debug\Win_IEnumerator.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\obj\Debug\Win_IEnumerator.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\obj\Debug\Win_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\obj\Debug\Win_IEnumerator.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_IEnumerator\obj\Debug\Win_IEnumerator.pdb

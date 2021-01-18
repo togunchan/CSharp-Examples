@@ -1,0 +1,10 @@
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\bin\Debug\Win_Enum.exe.config
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\bin\Debug\Win_Enum.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\bin\Debug\Win_Enum.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\obj\Debug\Win_Enum.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\obj\Debug\Win_Enum.Form1.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\obj\Debug\Win_Enum.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\obj\Debug\Win_Enum.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\obj\Debug\Win_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\obj\Debug\Win_Enum.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Enum\obj\Debug\Win_Enum.pdb
