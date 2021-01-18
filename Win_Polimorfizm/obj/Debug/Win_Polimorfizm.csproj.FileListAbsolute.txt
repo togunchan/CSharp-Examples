@@ -1,0 +1,10 @@
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\bin\Debug\Win_Polimorfizm.exe.config
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\bin\Debug\Win_Polimorfizm.exe
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\bin\Debug\Win_Polimorfizm.pdb
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\obj\Debug\Win_Polimorfizm.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\obj\Debug\Win_Polimorfizm.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\obj\Debug\Win_Polimorfizm.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\obj\Debug\Win_Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\obj\Debug\Win_Polimorfizm.exe
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\obj\Debug\Win_Polimorfizm.pdb
+C:\Users\Toğunçhan\Desktop\Win_Polimorfizm\obj\Debug\Win_Polimorfizm.Form1.resources

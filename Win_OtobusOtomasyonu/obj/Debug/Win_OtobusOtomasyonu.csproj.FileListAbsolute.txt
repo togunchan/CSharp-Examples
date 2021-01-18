@@ -1,0 +1,11 @@
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\bin\Debug\Win_OtobusOtomasyonu.exe.config
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\bin\Debug\Win_OtobusOtomasyonu.exe
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\bin\Debug\Win_OtobusOtomasyonu.pdb
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\obj\Debug\Win_OtobusOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\obj\Debug\Win_OtobusOtomasyonu.Form1.resources
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\obj\Debug\Win_OtobusOtomasyonu.KayitFormu.resources
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\obj\Debug\Win_OtobusOtomasyonu.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\obj\Debug\Win_OtobusOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\obj\Debug\Win_OtobusOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\obj\Debug\Win_OtobusOtomasyonu.exe
+C:\Users\Toğunçhan\Desktop\Win_OtobusOtomasyonu\obj\Debug\Win_OtobusOtomasyonu.pdb

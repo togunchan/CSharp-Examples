@@ -1,0 +1,20 @@
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\bin\Debug\Win_PizzaOtomasyonu.exe.config
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\bin\Debug\Win_PizzaOtomasyonu.exe
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\bin\Debug\Win_PizzaOtomasyonu.pdb
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.Form1.resources
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.Properties.Resources.resources
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.exe
+C:\Users\Toğunçhan\source\repos\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\bin\Debug\Win_PizzaOtomasyonu.exe.config
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\bin\Debug\Win_PizzaOtomasyonu.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\bin\Debug\Win_PizzaOtomasyonu.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.Form1.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PizzaOtomasyonu\obj\Debug\Win_PizzaOtomasyonu.pdb
