@@ -1,0 +1,10 @@
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\bin\Debug\Win_Inheritance.exe.config
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\bin\Debug\Win_Inheritance.exe
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\bin\Debug\Win_Inheritance.pdb
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\obj\Debug\Win_Inheritance.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\obj\Debug\Win_Inheritance.Form1.resources
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\obj\Debug\Win_Inheritance.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\obj\Debug\Win_Inheritance.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\obj\Debug\Win_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\obj\Debug\Win_Inheritance.exe
+C:\Users\Toğunçhan\Desktop\Win_Inheritance\obj\Debug\Win_Inheritance.pdb

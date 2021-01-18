@@ -1,0 +1,10 @@
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\bin\Debug\Win_Interface.exe.config
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\bin\Debug\Win_Interface.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\bin\Debug\Win_Interface.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\obj\Debug\Win_Interface.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\obj\Debug\Win_Interface.Form1.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\obj\Debug\Win_Interface.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\obj\Debug\Win_Interface.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\obj\Debug\Win_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\obj\Debug\Win_Interface.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Interface\obj\Debug\Win_Interface.pdb

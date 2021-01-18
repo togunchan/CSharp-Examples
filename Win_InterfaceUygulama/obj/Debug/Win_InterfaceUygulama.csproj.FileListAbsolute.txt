@@ -1,0 +1,5 @@
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_InterfaceUygulama\obj\Debug\Win_InterfaceUygulama.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_InterfaceUygulama\obj\Debug\Win_InterfaceUygulama.Form1.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_InterfaceUygulama\obj\Debug\Win_InterfaceUygulama.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_InterfaceUygulama\obj\Debug\Win_InterfaceUygulama.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_InterfaceUygulama\obj\Debug\Win_InterfaceUygulama.csproj.CoreCompileInputs.cache
