@@ -1,0 +1,10 @@
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\bin\Debug\Win_PolimorfizmUygulamaToString.exe.config
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\bin\Debug\Win_PolimorfizmUygulamaToString.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\bin\Debug\Win_PolimorfizmUygulamaToString.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\obj\Debug\Win_PolimorfizmUygulamaToString.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\obj\Debug\Win_PolimorfizmUygulamaToString.Form1.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\obj\Debug\Win_PolimorfizmUygulamaToString.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\obj\Debug\Win_PolimorfizmUygulamaToString.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\obj\Debug\Win_PolimorfizmUygulamaToString.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\obj\Debug\Win_PolimorfizmUygulamaToString.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_PolimorfizmUygulamaToString\obj\Debug\Win_PolimorfizmUygulamaToString.pdb

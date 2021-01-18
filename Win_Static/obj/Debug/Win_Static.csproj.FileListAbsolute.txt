@@ -1,0 +1,10 @@
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\bin\Debug\Win_Static.exe.config
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\bin\Debug\Win_Static.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\bin\Debug\Win_Static.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\obj\Debug\Win_Static.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\obj\Debug\Win_Static.Form1.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\obj\Debug\Win_Static.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\obj\Debug\Win_Static.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\obj\Debug\Win_Static.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\obj\Debug\Win_Static.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Static\obj\Debug\Win_Static.pdb
