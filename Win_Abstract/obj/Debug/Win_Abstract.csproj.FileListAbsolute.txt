@@ -1,0 +1,10 @@
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\bin\Debug\Win_Abstract.exe.config
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\bin\Debug\Win_Abstract.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\bin\Debug\Win_Abstract.pdb
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\obj\Debug\Win_Abstract.csprojAssemblyReference.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\obj\Debug\Win_Abstract.Form1.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\obj\Debug\Win_Abstract.Properties.Resources.resources
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\obj\Debug\Win_Abstract.csproj.GenerateResource.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\obj\Debug\Win_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\obj\Debug\Win_Abstract.exe
+C:\Users\Toğunçhan\Desktop\C# Çalışma\Win_Abstract\obj\Debug\Win_Abstract.pdb
